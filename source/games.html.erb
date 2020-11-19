@@ -1,0 +1,21 @@
+---
+title: Games
+---
+
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Host</th>
+    <th>Starts</th>
+    <th>Available</th>
+  </tr>
+  <% data.games.each_with_index do |game, i| %>
+    <tr>
+      <td><%= link_to game.title,
+        "/game_#{i.to_s.rjust(3, '0')}.html" %></td>
+      <td><%= game.gm %></td>
+      <td><%= game.starts %></td>
+      <td><%= partial :available, locals: { game: game } %></td>
+    </tr>
+  <% end %>
+</table>

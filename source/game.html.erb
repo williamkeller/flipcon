@@ -1,0 +1,32 @@
+---
+title: Game Details
+---
+
+
+<table style="border: 1px solid black;">
+  <tr>
+    <th><%= game.title %></th>
+  </tr>
+  <tr>
+    <th><%= game.description  %></th>
+  </tr>
+  <tr>
+    <th>Max spots</th><td><%= game.max_spots %></td>
+  </tr>
+  <tr>
+    <th>Age range</th><td><%= game.age_range %></td>
+  </tr>
+  <tr>
+    <th>Minimum Donation</th><td><%= game.min_donation %></td>
+  </tr>
+  <tr>
+    <th>Game System</th><td><%= game.game_system %></td>
+  </tr>
+  <tr>
+    <th>Platform</th><td><%= game.platform %></td>
+  </tr>
+  <tr>
+    <th>Attendee List</th>
+    <td><%= partial :attendees, locals: { attendees: game.attendees } %></td>
+  </tr>
+</table>

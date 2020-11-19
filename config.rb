@@ -15,6 +15,16 @@ page '/*.xml', layout: false
 page '/*.json', layout: false
 page '/*.txt', layout: false
 
+
+# Load up all the detail pages
+data.games.each_with_index do |game, i|
+  proxy "/game_#{i.to_s.rjust(3, '0')}.html", '/game.html', locals: { game: game }
+end
+
+
+
+
+
 # With alternative layout
 # page '/path/to/file.html', layout: 'other_layout'
 
