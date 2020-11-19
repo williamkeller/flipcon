@@ -8,10 +8,14 @@
     <!-- Use the title from a page's frontmatter if it has one -->
     <title><%= current_page.data.title || "NO TITLE" %></title>
     <%= stylesheet_link_tag "bootstrap.min.css" %>
+    <%= stylesheet_link_tag "site.css" %>
     <%= javascript_include_tag "bootstrap.min.js" %>
   </head>
   <body>
     <%= partial :navbar, locals: { navid: current_page.data.navid } %>
-    <%= yield %>
+    <br/><br/>
+    <div class="container">
+      <%= yield %>
+    </div>
   </body>
 </html>

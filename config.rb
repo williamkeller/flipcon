@@ -18,7 +18,7 @@ page '/*.txt', layout: false
 
 # Load up all the detail pages
 data.games.each_with_index do |game, i|
-  proxy "/game_#{i.to_s.rjust(3, '0')}.html", '/game.html', locals: { game: game }
+  proxy "/game_#{i.to_s.rjust(3, '0')}.html", '/game.html', locals: { game: game }, ignore: true
 end
 
 

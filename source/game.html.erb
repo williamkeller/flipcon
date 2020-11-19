@@ -4,29 +4,29 @@ navid: games
 ---
 
 
-<table style="border: 1px solid black;">
+<table class='table table-hover'>
   <tr>
-    <th><%= game.title %></th>
+    <th colspan='2'><h3><%= game.title %></h3></th>
   </tr>
   <tr>
-    <th><%= game.description  %></th>
+    <th colspan='2'><%= game.description  %></th>
   </tr>
-  <tr>
+  <tr class='data-row'>
     <th>Max spots</th><td><%= game.max_spots %></td>
   </tr>
-  <tr>
+  <tr class='data-row'>
     <th>Age range</th><td><%= game.age_range %></td>
   </tr>
-  <tr>
+  <tr class='data-row'>
     <th>Minimum Donation</th><td><%= game.min_donation %></td>
   </tr>
-  <tr>
+  <tr class='data-row'>
     <th>Game System</th><td><%= game.game_system %></td>
   </tr>
-  <tr>
+  <tr class='data-row'>
     <th>Platform</th><td><%= game.platform %></td>
   </tr>
-  <tr>
+  <tr class='data-row'>
     <th>Attendee List</th>
     <td><%= partial :attendees, locals: { attendees: game.attendees } %></td>
   </tr>
