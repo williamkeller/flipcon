@@ -11,7 +11,7 @@
     <%= javascript_include_tag "bootstrap.min.js" %>
   </head>
   <body>
-    <%= partial :navbar %>
+    <%= partial :navbar, locals: { navid: current_page.data.navid } %>
     <%= yield %>
   </body>
 </html>
