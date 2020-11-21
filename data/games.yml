@@ -1,6 +1,8 @@
 
 - title: DCC - Hole in the Sky
   gm: Jim Walls
+  gm_bio:
+  gm_photo:
   contact: xx
   starts: Saturday, December 5th, at 12pm EST
   duration: 4 hours
@@ -10,12 +12,33 @@
   game_system: Dungeon Crawl Classics
   platform: Zoom
   description: Brendan LaSalle's trippy multiverse spanning funnel. 
+  visible: true
   attendees:
     - MichaelK
     - Dev Preston
 
+- title: Edge of the Empire - Beginner Game
+  gm: James Hill
+  gm_bio:
+  gm_photo:
+  contact: dccjudgewill@gmail.com
+  starts: Saturday, December 5th, at 1pm EST
+  duration: 4
+  max_spots: 4
+  age_range: any
+  min_donation: any
+  game_system: Fantasy Flight Star Wars 
+  platform: Zoom
+  description: >
+    A group of serfs and peasants learn that one of them could be the long lost heir to the throne. Plus 
+    the world might end. <br/>This is a 0 level funnel adventure, pregens will be provided.
+  visible: false
+  attendees:
+
 - title: DCC - Accursed Heart of the World Ender
   gm: Will Keller
+  gm_bio:
+  gm_photo:
   contact: dccjudgewill@gmail.com
   starts: Saturday, December 5th, at 4pm EST
   duration: 4
@@ -27,4 +50,16 @@
   description: >
     A group of serfs and peasants learn that one of them could be the long lost heir to the throne. Plus 
     the world might end. <br/>This is a 0 level funnel adventure, pregens will be provided.
+  visible: true
   attendees:
+
+
+
+
+
+
+
+
+
+
+

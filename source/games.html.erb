@@ -11,6 +11,7 @@ navid: games
     <th>Available</th>
   </tr>
   <% data.games.each_with_index do |game, i| %>
+  <% next if game.visible == false %>
     <tr>
       <td><%= link_to game.title,
         "/game_#{i.to_s.rjust(3, '0')}.html" %></td>

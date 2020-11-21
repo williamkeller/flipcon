@@ -1,7 +1,7 @@
 
 
 <% if game.attendees.nil? %>
-<%   spots = 0 %>
+<%   spots = game.max_spots %>
 <% else %>
 <%   spots = game.max_spots - game.attendees.length %>
 <% end %>
