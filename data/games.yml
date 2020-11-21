@@ -1,9 +1,9 @@
 
 - title: DCC - Hole in the Sky
-  gm: Jim Walls
+  gm: Judge James
   gm_bio:
   gm_photo:
-  contact: xx
+  contact: norwingameknights@gmail.com 
   starts: Saturday, December 5th, at 12pm EST
   duration: 4 hours
   max_spots: 6
@@ -11,8 +11,14 @@
   min_donation: any
   game_system: Dungeon Crawl Classics
   platform: Zoom
-  description: Brendan LaSalle's trippy multiverse spanning funnel. 
+  description: >
+    The Lady in Blue, a mysterious figure of cosmic power, enlists a band of simple peasants for a strange
+    task. They are to follow an invisible bridge until they arrive at a hole in the sky – and then jump 
+    through. Death awaits all but the bravest, strongest, and luckiest, but the Lady offers a reward beyond
+    all the riches of the world - the chance to change the very stars these peasants were born under, and 
+    thus change their destiny.
   visible: true
+  in_georgia: false
   attendees:
     - MichaelK
     - Dev Preston
@@ -21,21 +27,24 @@
   gm: James Hill
   gm_bio:
   gm_photo:
-  contact: dccjudgewill@gmail.com
+  contact: jamesalberthill@gmail.com
   starts: Saturday, December 5th, at 1pm EST
   duration: 4
   max_spots: 4
   age_range: any
   min_donation: any
-  game_system: Fantasy Flight Star Wars 
+  game_system: Fantasy Flight Star Wars
   platform: Zoom
   description: >
-    A group of serfs and peasants learn that one of them could be the long lost heir to the throne. Plus 
-    the world might end. <br/>This is a 0 level funnel adventure, pregens will be provided.
-  visible: false
+    Prepare for adventure in the Star Wars galaxy! Whether you’re new to roleplaying games or just new to
+    Edge of the Empire, the Beginner Game is the perfect starting point. Explore the seedy underside of the
+    Empire in this introduction to the FFG Star Wars system. No experience necessary, and pregen characters
+    will be provided.
+  visible: true
+  in_georgia: true
   attendees:
 
-- title: DCC - Accursed Heart of the World Ender
+- title: DCC - The Inn at Five Points
   gm: Will Keller
   gm_bio:
   gm_photo:
@@ -48,9 +57,16 @@
   game_system: Dungeon Crawl Classics
   platform: Zoom
   description: >
-    A group of serfs and peasants learn that one of them could be the long lost heir to the throne. Plus 
-    the world might end. <br/>This is a 0 level funnel adventure, pregens will be provided.
+    The Inn at Five Points is a local landmark, known for decent food, good drink, a good night's rest - and a
+    special reputation for neutrality. Warring parties use the Inn to negotaiate and make peace. And now the
+    amenable neutrality of the Inn has attracted the attention of the Crawling Lord, the most extreme and
+    defender of Law. Can a rag-tag group of adventurers prevent the ascension of the vile Crawling Lord? Will
+    they ever see the light of day again? And what exacty makes Arlo and Quendy's rosemary bread so addictive?
+    All this and more shall be answered a the Inn at Five Points.
+    <br/>
+    This is a second level adventures. Pregen characters will be provided.
   visible: true
+  in_georgia: false
   attendees:
 
 
