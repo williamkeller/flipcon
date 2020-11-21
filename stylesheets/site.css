@@ -1,4 +1,12 @@
 
+body {
+  background: rgb(0, 21, 188);
+}
+
+.container {
+  border: 3px solid black;
+  background: rgb(255, 255, 255);
+}
 
 table tr.data-row th {
   width: 25%;
