@@ -1,27 +1,30 @@
 
 - title: DCC - Hole in the Sky
   gm: Jim Walls
+  contact: xx
   starts: Saturday, December 5th, at 12pm EST
-  duration: 0
+  duration: 4 hours
   max_spots: 6
   age_range: any
   min_donation: any
-  game_system: DCC
+  game_system: Dungeon Crawl Classics
   platform: Zoom
-  description: blah blah blah blah blah
+  description: Brendan LaSalle's trippy multiverse spanning funnel. 
   attendees:
+    - MichaelK
+    - Dev Preston
 
 - title: DCC - Accursed Heart of the World Ender
   gm: Will Keller
-  starts: Saturday, December 5th, at 12pm EST
-  duration: 0
-  max_spots: 4
+  contact: dccjudgewill@gmail.com
+  starts: Saturday, December 5th, at 4pm EST
+  duration: 4
+  max_spots: 5
   age_range: any
   min_donation: any
-  game_system: DCC
+  game_system: Dungeon Crawl Classics
   platform: Zoom
-  description: blah blah blah blah blah
+  description: >
+    A group of serfs and peasants learn that one of them could be the long lost heir to the throne. Plus 
+    the world might end. <br/>This is a 0 level funnel adventure, pregens will be provided.
   attendees:
-  - Mark
-  - Bob
-  - Phil
