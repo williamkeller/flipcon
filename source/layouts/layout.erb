@@ -9,6 +9,7 @@
     <title><%= current_page.data.title || "NO TITLE" %></title>
     <%= stylesheet_link_tag "bootstrap.min.css" %>
     <%= stylesheet_link_tag "site.css" %>
+    <%= javascript_include_tag "jquery-3.5.1.min.js" %>
     <%= javascript_include_tag "bootstrap.min.js" %>
   </head>
   <body>
@@ -17,5 +18,6 @@
     <div class="container">
       <%= yield %>
     </div>
+    <%= partial :footer %>
   </body>
 </html>
