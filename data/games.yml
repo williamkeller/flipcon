@@ -66,7 +66,7 @@
     All this and more shall be answered a the Inn at Five Points.
     <br/>
     This is a second level adventures. Pregen characters will be provided.
-  visible: true
+  visible: false
   in_georgia: false
   attendees:
 
