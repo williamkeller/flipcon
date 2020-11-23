@@ -23,6 +23,27 @@
     - MichaelK
     - Dev Preston
 
+- title: Orcus on 34th Level
+  gm: Jon Hook
+  gm_bio:
+  gm_photo:
+  contact: jonhook@gmail.com
+  starts: Saturday, December 5th, at 12pm EST
+  duration: 4
+  max_spots: 6
+  age_range: Teens are ok 
+  min_donation: $10 
+  game_system: Swords & Wizardry
+  platform: "Discord: https://discord.gg/r5T64nZ"
+  description: >
+    Welcome to The Candy Crypt, where the foul demon Orcus’s Claws manufactures bittersweet treats and 
+    poisoned dreams. Orcus’ Claws won’t be alone anymore; his beloved estranged wife, banished by the Forces
+    of Law into a pocket dimension beyond the stars, is about to be freed. It is your duty to thwart the 
+    summoning ritual — Claws must be stopped at all cost — he cannot summon his wife, Nohell Claws!
+  visible: true
+  in_georgia: false
+  attendees:
+
 - title: Edge of the Empire - Beginner Game
   gm: James Hill
   gm_bio:
@@ -70,7 +91,35 @@
   in_georgia: false
   attendees:
 
-
+- title: "Alien: Chariot of the Gods"
+  gm: Ben Heisler
+  gm_bio:
+  gm_photo:
+  contact: zhentarimpr@gmail.com
+  starts: Saturday, December 5th, at 7pm EST
+  duration: 5
+  max_spots: 5
+  age_range: Adults Only
+  min_donation: $15
+  game_system: The Alien RPG
+  platform: Zoom & Roll20
+  description: >
+    In Space, No One Can Hear You Scream
+    <br/><br/>
+    In this introductory cinematic adventure of the Alien RPG, your mining ship is diverted to answer a 
+    distress beacon. Common practice for the company, but what you find in the lost, derelict craft is 
+    anything but common.
+    <br/><br/>
+    This scenario provides pre-generated characters with differing agendas which may lead to PVP at the game 
+    table. Consider it as you would a game such as the board games of Battlestar Galactica, Shadows over 
+    Camelot, or Dead of Winter - you all succeed when working together but each character has different (and
+    potentially opposing) victory conditions.
+    <br/><br/>
+    Adult themes - as in movies of the Alien franchise, you can expect horror, panic, gore, body horror, and
+    other adult themes. Not all characters are expected to survive, and the ending may not be a happy one.
+  visible: true
+  in_georgia: false
+  attendees:
 
 
 
