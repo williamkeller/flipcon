@@ -46,6 +46,27 @@
     - Thomas Grooms
     - Philip McGee
 
+- title: Shadow of the Beakmen
+  gm: Tim Deschene
+  gm_bio:
+  gm_photo:
+  contact: tdeschene@gmail.com
+  starts: Saturday, December 5th, at 12pm EST
+  duration: 4
+  max_spots: 5
+  age_range: Open to everyone
+  min_donation: $5
+  game_system: Dungeon Crawl Classics
+  platform: Zoom & Roll20
+  description: >
+    A Level 1 Adventure Towering obelisks stab the sky. Monstrous knights with blazing lances prowl the 
+    night. Huts burn, and entire villages are taken as slaves to be fed darksome pits. The cries of terror 
+    and panic give the horrors a name: the Beakmen have come.
+  visible: true
+  in_georgia: false
+  attendees:
+
+
 - title: Edge of the Empire - Beginner Game
   gm: James Hill
   gm_bio:
