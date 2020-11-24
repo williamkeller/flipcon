@@ -130,31 +130,6 @@
   attendees:
 
 
-- title: DCC - The Inn at Five Points
-  gm: Will Keller
-  gm_bio:
-  gm_photo:
-  contact: dccjudgewill@gmail.com
-  starts: Saturday, December 5th, at 4pm EST
-  duration: 4
-  max_spots: 5
-  age_range: any
-  min_donation: any
-  game_system: Dungeon Crawl Classics
-  platform: Zoom
-  description: >
-    The Inn at Five Points is a local landmark, known for decent food, good drink, a good night's rest - and a
-    special reputation for neutrality. Warring parties use the Inn to negotaiate and make peace. And now the
-    amenable neutrality of the Inn has attracted the attention of the Crawling Lord, the most extreme and
-    defender of Law. Can a rag-tag group of adventurers prevent the ascension of the vile Crawling Lord? Will
-    they ever see the light of day again? And what exacty makes Arlo and Quendy's rosemary bread so addictive?
-    All this and more shall be answered a the Inn at Five Points.
-    <br/>
-    This is a second level adventures. Pregen characters will be provided.
-  visible: false
-  in_georgia: false
-  attendees:
-
 - title: "Alien: Chariot of the Gods"
   gm: Ben Heisler
   gm_bio:
@@ -181,6 +156,30 @@
     <br/><br/>
     Adult themes - as in movies of the Alien franchise, you can expect horror, panic, gore, body horror, and
     other adult themes. Not all characters are expected to survive, and the ending may not be a happy one.
+  visible: true
+  in_georgia: false
+  attendees:
+
+- title: The Cuthbert Lovelace Affair
+  gm: Julian Bernick
+  gm_bio:
+  gm_photo:
+  contact: julian_bernick@yahoo.com
+  starts: Saturday, December 5th, at 8pm EST
+  duration: 4
+  max_spots: 4
+  age_range: Adults Only
+  min_donation: Any amount
+  game_system: Gumshoe light / Casting the Runes
+  platform: Zoom
+  description: >
+    Several eligible young ladies are dispatched to meet the handsome, wealthy and eccentric bachelor 
+    Cuthbert Lovelace. Little did they dream that the Lovelace name (and fortune) comes with so much 
+    dangerous baggage! And what a way to find out... stranded at the Lovelace manor home, cut off from 
+    the rest of the world for at least 3 days. 
+    <br/>
+    This is a Gothic Horror game, played with a super light version of GUMSHOE rules.  Minimal combat.  
+    Expect mystery, creepy castles, spider webs, secret passages, searching crypts by candlelight, etc.
   visible: true
   in_georgia: false
   attendees:
@@ -247,5 +246,25 @@
     - Julian Bernick
 
 
+- title: Lights In the Sky - DCC / MCC RPG
+  gm: Julian Bernick
+  gm_bio:
+  gm_photo:
+  contact: julian_bernick@yahoo.com
+  starts: Sunday, December 6th, at 7pm EST
+  duration: 4
+  max_spots: 5
+  age_range: Teens are ok
+  min_donation: Any amount
+  game_system: Dungeon & Mutant Crawl Classics RPG
+  platform: Zoom
+  description: >
+    Your PCs are hired by the mutants who live outside the walls of St. Angelique to investigate the 
+    strange lights in the sky over their shantytown hovels as well as the disappearance of some of their 
+    own.  This is a mashup of DCC RPG & MCC RPG rules and classes, so expect Dwarves, Mutants, Elves, 
+    Manimals, Warriors, Wizards, Shamans, etc.   
+  visible: true
+  in_georgia: false
+  attendees:
 
 
