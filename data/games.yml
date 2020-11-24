@@ -185,6 +185,30 @@
   visible: true
   in_georgia: false
   attendees:
+    - Dave Aughinbaugh
+
+      
+- title: "Trail of Cthulhu: The Kidnapping"
+  gm: Toby Williamson
+  gm_bio:
+  gm_photo:
+  contact: dwillmsn-home@yahoo.com
+  starts: Sunday, December 6th, at 12pm EST
+  duration: 5 hours
+  max_spots: 4
+  age_range: Adults Only
+  min_donation: $10
+  game_system: Trail of Cthulhu
+  platform: Zoom
+  description: >
+    You have been asked to investigate the kidnapping of the child of a wealthy New York family. The 
+    child is probably being held for ransom. (TW: threats to a child, horrors from beyond space and 
+    time, violence) Pregens provided.
+  visible: true
+  in_georgia: true
+  attendees:
+
+
 
 - title: "Sunken: An RPG of Nautical Horror"
   gm: Tom Cadorette 
