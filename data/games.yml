@@ -59,7 +59,7 @@
   game_system: Dungeon Crawl Classics
   platform: Zoom & Roll20
   description: >
-    A Level 1 Adventure Towering obelisks stab the sky. Monstrous knights with blazing lances prowl the 
+    A Level 1 adventure. Towering obelisks stab the sky. Monstrous knights with blazing lances prowl the 
     night. Huts burn, and entire villages are taken as slaves to be fed darksome pits. The cries of terror 
     and panic give the horrors a name: the Beakmen have come.
   visible: true
@@ -223,7 +223,26 @@
   in_georgia: true
   attendees:
 
-
+- title: Nobody Move There's Blood On the Floor
+  gm: operyion fall
+  gm_bio:
+  gm_photo:
+  contact: operyion@operyion.dev
+  starts: Sunday, December 6th, at 2pm EST
+  duration: 4 hours
+  max_spots: 4
+  age_range: Open to everyone
+  min_donation: $5
+  game_system: Dead Halt
+  platform: A jitsi meeting
+  description: >
+    Dead Halt is a roleplaying game set in 1996. Gather a crew and try to survive in the megalithic hotel.
+    <br/>
+    Dhuraine, the bartender, has learned from TC's cat that TC has not been seen since he went to floor 42. 
+    Dhuraine would like you to find out what happened to TC, and if possible bring him back.
+  visible: true
+  in_georgia: true
+  attendees:
 
 
 
