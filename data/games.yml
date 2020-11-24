@@ -171,7 +171,7 @@
   duration: 4 hours
   max_spots: 4
   age_range: Adults Only
-  min_donation: Any amount
+  min_donation: Any amount, but Julian will match your donation
   game_system: Gumshoe light / Casting the Runes
   platform: Zoom
   description: >
@@ -257,7 +257,7 @@
   duration: 4 hours
   max_spots: 5
   age_range: Teens are ok
-  min_donation: Any amount
+  min_donation: Any amount, but Julian will match your donation
   game_system: Dungeon & Mutant Crawl Classics RPG
   platform: Zoom
   description: >
@@ -269,5 +269,6 @@
   in_georgia: false
   attendees:
     - Matthew Rose
+    - Laura Pirkola Williams
 
 
