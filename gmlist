@@ -6,6 +6,11 @@ data = YAML.load(File.read('data/games.yml'))
 
 list = data.map { |g| [ g['gm'], g['contact'] ] }.uniq
 
-puts 'GMs running games'
+player_count = data.map { |g| (g['attendees'] || []).length  }.reduce(0) { |sum, c| sum + c }
 
+puts "Game count: #{data.length}"
+puts "GM count: #{list.length}"
+puts "Player count: #{player_count.to_i}"
+puts "-------------"
+puts 'GMs running games'
 list.each { |g| puts "#{g[0]}: #{g[1]}" }
