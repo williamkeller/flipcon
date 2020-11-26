@@ -181,6 +181,28 @@
   attendees:
 
 
+- title: Untitled Jawa Game
+  gm: Cameron Hays
+  gm_bio:
+  gm_photo:
+  contact: thecameronhays@gmail.com
+  starts: Saturday, December 5th, at 2pm EST
+  duration: 4 hours
+  max_spots: 6
+  age_range: Teens are ok
+  min_donation: $10
+  game_system: Star Wars D6
+  platform: Roll20 for visuals and Google Meet for audio and video
+  description: >
+    On a desert planet beneath notice, six Jawas are about to make the scavenging score of a lifetime. 
+    With a payout like this, they might even be able to build their own sandcrawler! Unfortunately, 
+    the galaxy far far away has different plans. Play a feisty jawa with loyalty only for their family 
+    of scavengers and be prepared to get pulled into a struggle that you don't care about at all. Rules 
+    taught, beginners welcome.
+  visible: true
+  in_georgia: true
+  attendees:
+
 - title: "Alien: Chariot of the Gods"
   gm: Ben Heisler
   gm_bio:
