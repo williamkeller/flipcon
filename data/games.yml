@@ -233,6 +233,49 @@
   in_georgia: false
   attendees:
 
+
+- title: "Wraith: The Boo Crew"
+  gm: Cameron Hays
+  gm_bio:
+  gm_photo:
+  contact: thecameronhays@gmail.com
+  starts: Saturday, December 5th, at 7pm EST
+  duration: 4 hours
+  max_spots: 7
+  age_range: Teens are ok
+  min_donation: No minimum donation, be generous
+  game_system: "The Oblivion (20th Anniversary Edition)"
+  platform: Roll20 for visuals, Google Meet for audio/videon
+  description: >
+    Afterlife society strictly prohibits interacting with the living, but when the authorities need their own
+    rules broken, they need people like you: sanctioned haunters. Come be a ghost and scare the daylights out 
+    of some hapless meatbags.
+  visible: true
+  in_georgia: false
+  attendees:
+
+- title: Blades of New York
+  gm: Cameron Hays
+  gm_bio:
+  gm_photo:
+  contact: thecameronhays@gmail.com
+  starts: Sunday, December 6th, at 2pm EST
+  duration: 4 hours
+  max_spots: 5
+  age_range: Adults Only
+  min_donation: No minimum. Be generous.
+  game_system: Blades of New York (Forged in the Dark)
+  platform: Zoom for visuals, Google Meet for audio/video
+  description: >
+    It's 1850 on the lower east side of New York City. The murder of a grocery store owner leads to the 
+    foundation of a new street gang. Will they seek retribution or simply carve out their own niche in the 
+    criminal underworld of the Five Points? This game is a historical variant of Blades in the Dark created 
+    under the Forged in the Dark license. 
+  visible: true
+  in_georgia: false
+  attendees:
+
+
 - title: The Cuthbert Lovelace Affair
   gm: Julian Bernick
   gm_bio:
