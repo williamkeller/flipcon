@@ -3,6 +3,7 @@
 bundle exec middleman build
 git add .
 git commit -m "Deploy"
+git push origin master
 git subtree push --prefix build origin gh-pages
 
 
