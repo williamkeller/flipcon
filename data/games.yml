@@ -221,7 +221,6 @@
   visible: true
   in_georgia: true
   attendees:
-    - K.D. Bryan
 
 - title: "Alien: Chariot of the Gods"
   gm: Ben Heisler
@@ -294,6 +293,7 @@
   visible: true
   in_georgia: false
   attendees:
+    - K.D. Bryan
 
 
 - title: The Cuthbert Lovelace Affair
