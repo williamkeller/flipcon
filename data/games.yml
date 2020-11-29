@@ -195,7 +195,7 @@
     <br/><br/>
     * Following a tip about the whereabouts of the missing Founder of the East Passage Company, a small crew
     of seafarers venture into what they believe is an undersea utopia...
-  visible: true
+  visible: false
   in_georgia: true
   attendees:
 
@@ -401,7 +401,7 @@
     <br/><br/>
     * Following a tip about the whereabouts of the missing Founder of the East Passage Company, a small crew
     of seafarers venture into what they believe is an undersea utopia...
-  visible: true
+  visible: false
   in_georgia: true
   attendees:
     - Neal Tanner
