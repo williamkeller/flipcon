@@ -18,8 +18,7 @@
   visible: true
   in_georgia: false
   attendees:
-
-
+    - Matthew Rose
 
 - title: DCC - Hole in the Sky
   gm: Judge James
@@ -135,6 +134,7 @@
   visible: true
   in_georgia: false
   attendees:
+    - David Aughinbaugh
 
 
 
@@ -404,7 +404,6 @@
   visible: false
   in_georgia: true
   attendees:
-    - Neal Tanner
 
 - title: Nobody Move There's Blood On the Floor
   gm: operyion fall
@@ -429,6 +428,7 @@
     - Julian Bernick
     - Heather Lidholm
     - Robert Mackie
+    - Neal Tanner
 
 
 - title: Lights In the Sky - DCC / MCC RPG
