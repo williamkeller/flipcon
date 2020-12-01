@@ -19,6 +19,8 @@
   in_georgia: false
   attendees:
     - Matthew Rose
+    - Allen White
+
 
 - title: DCC - Hole in the Sky
   gm: Judge James
@@ -48,6 +50,7 @@
     - Jen R
     - Rustin C
 
+
 - title: Orcus on 34th Level
   gm: Jon Hook
   gm_bio:
@@ -70,6 +73,7 @@
   attendees:
     - Thomas Grooms
     - Philip McGee
+
 
 - title: Shadow of the Beakmen
   gm: Tim Deschene
@@ -160,8 +164,6 @@
     - David Aughinbaugh
 
 
-
-
 - title: "Sunken: An RPG of Nautical Horror"
   gm: Tom Cadorette 
   gm_bio:
@@ -223,6 +225,7 @@
   visible: true
   in_georgia: true
   attendees:
+
 
 - title: "Alien: Chariot of the Gods"
   gm: Ben Heisler
@@ -305,7 +308,6 @@
     - Milda De Voe
 
 
-
 - title: "Trail of Cthulhu: The Kidnapping"
   gm: Toby Williamson
   gm_bio:
@@ -325,7 +327,6 @@
   visible: true
   in_georgia: true
   attendees:
-
 
 
 - title: "Sunken: An RPG of Nautical Horror"
@@ -366,6 +367,7 @@
   visible: false
   in_georgia: true
   attendees:
+
 
 - title: Nobody Move There's Blood On the Floor
   gm: operyion fall
@@ -438,7 +440,6 @@
   attendees:
     - Matthew Rose
     - Laura Pirkola Williams
-
 
 
 - title: A Village Near a Dungeon with a Necromancy Problem
