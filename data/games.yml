@@ -117,7 +117,7 @@
   description: >
     You are summoned to penetrate the Horned King's fortress, braving ice giants and other beasts. Some 
     experience with Dungeon Crawl Classics is recommended but not required. 7th level pregens will be provided.
-  visible: true
+  visible: false
   in_georgia: false
   attendees:
 
@@ -450,6 +450,7 @@
     - Laura Pirkola Williams
     - Heather Lidholm
     - Mike Nadeau
+    - Bart Bailey
 
 
 - title: A Village Near a Dungeon with a Necromancy Problem
