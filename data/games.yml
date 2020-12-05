@@ -332,7 +332,7 @@
     You have been asked to investigate the kidnapping of the child of a wealthy New York family. The 
     child is probably being held for ransom. (TW: threats to a child, horrors from beyond space and 
     time, violence) Pregens provided.
-  visible: true
+  visible: false
   in_georgia: true
   attendees:
 
